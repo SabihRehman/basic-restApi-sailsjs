@@ -1,4 +1,4 @@
-# test-project-2
+# REST API by Using Sailsjs
 
 a [Sails v1](https://sailsjs.com) application
 
